@@ -1,0 +1,17 @@
+# Experiment 8 - Email Spoofing Detection using Random Forest
+
+## Aim
+To detect spoofed emails using the Random Forest classification algorithm.
+
+## Algorithm
+Random Forest Classifier
+
+## Libraries Used
+- Pandas
+- Scikit-learn
+
+## Description
+The program uses email-related features such as domain matching, SPF, DKIM and suspicious indicators to classify emails as genuine or spoofed.
+
+## Output
+Displays the predicted status of sample emails.
