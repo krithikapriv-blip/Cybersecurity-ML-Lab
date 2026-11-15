@@ -1,0 +1,18 @@
+Email 1: Genuine
+Email 2: Genuine
+Email 3: Genuine
+Email 4: Spoofed
+Email 5: Spoofed
+Email 6: Genuine
+Email 7: Spoofed
+Email 8: Genuine
+Email 9: Spoofed
+Email 10: Genuine
+Email 11: Genuine
+Email 12: Spoofed
+Email 13: Genuine
+Email 14: Spoofed
+Email 15: Genuine
+Email 16: Spoofed
+
+New Email: Spoofed
